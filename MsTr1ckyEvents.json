@@ -1,8 +1,8 @@
 {
 	"Name": "MsTr1cky Tourney Balancing",
-	"Version": 1764793727,
+	"Version": 1765670695,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "Shoulder the burden, deli, decisive strike are banned in the first round",
+	"GlobalNotes": "no global notes",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -24,6 +24,7 @@
 				"27",
 				"286",
 				"288",
+				"36",
 				"43",
 				"46",
 				"49",
@@ -46,6 +47,7 @@
 				"296",
 				"99",
 				"100",
+				"275",
 				"105",
 				"108",
 				"263",
