@@ -1,8 +1,8 @@
 {
 	"Name": "MsTr1cky Tourney Balancing",
-	"Version": 1765670695,
+	"Version": 1769227178,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "no global notes",
+	"GlobalNotes": "Shoulder/Deli/DS are banned R1",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -24,7 +24,6 @@
 				"27",
 				"286",
 				"288",
-				"36",
 				"43",
 				"46",
 				"49",
@@ -47,7 +46,6 @@
 				"296",
 				"99",
 				"100",
-				"275",
 				"105",
 				"108",
 				"263",
@@ -3117,7 +3115,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"1"
+				"4"
 			],
 			"BalanceTiers": [
 				0
@@ -3219,7 +3217,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"1"
+				"0"
 			],
 			"BalanceTiers": [
 				0
