@@ -1,6 +1,6 @@
 {
 	"Name": "MsTr1cky Tourney Balancing",
-	"Version": 1769227178,
+	"Version": 1770425587,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Shoulder/Deli/DS are banned R1",
 	"Tiers": [
@@ -11,6 +11,8 @@
 				"3",
 				"285",
 				"5",
+				"300",
+				"10",
 				"11",
 				"14",
 				"16",
@@ -21,10 +23,12 @@
 				"22",
 				"25",
 				"246",
+				"301",
 				"27",
 				"286",
 				"288",
 				"43",
+				"303",
 				"46",
 				"49",
 				"294",
@@ -49,9 +53,13 @@
 				"105",
 				"108",
 				"263",
+				"302",
+				"305",
 				"290",
 				"287",
 				"120",
+				"126",
+				"304",
 				"254",
 				"130"
 			],
@@ -66,6 +74,7 @@
 				"171",
 				"174",
 				"175",
+				"299",
 				"176",
 				"177",
 				"291",
@@ -84,10 +93,12 @@
 				"214",
 				"272",
 				"219",
+				"298",
 				"225",
 				"227",
 				"231",
 				"232",
+				"297",
 				"293",
 				"257"
 			],
@@ -4322,6 +4333,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The First",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
